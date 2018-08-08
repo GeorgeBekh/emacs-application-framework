@@ -42,7 +42,7 @@ Using this framework, you can use PyQt develop powerful graphics programs to ext
     Make sure python3 and pip has install in your operating system, then execute below command:
 
 ```Bash
-    sudo pip install dbus-python PyMuPDF grip qrcode pyqt5 python-xlib
+    sudo pip install python-xlib python-pyqt5 dbus-python PyMuPDF grip qrcode
 ```
 
 2. Clone this repository and add below code in your ~/.emacs
